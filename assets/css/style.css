@@ -1,6 +1,7 @@
 body {
     background-color: lightgrey;
-    background-image: url=("images/background.jpg");
-
+    background-image: url(../images/background-img.jpg);
 }
-h2{font-color: orange}
+
+    p{font-weight: bold ;}
+    h2{color: orangered;}
